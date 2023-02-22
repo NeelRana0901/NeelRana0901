@@ -6,7 +6,7 @@
 [![gmail badge](https://img.shields.io/badge/Neel_Sanjaykumar_Rana-F9A7B0?style=flat&logo=gmail)](neelrana111@gmail.com)
 
 
-<img align="centre" alt="GIF" height="300px" src="https://github.com/Utsav1999/Utsav1999/blob/main/gifs/coder.gif" />
+<img align="centre" alt="GIF" height="300px" src="https://github.com/NeelRana0901/NeelRana0901/blob/main/gifs/coder.gif" />
 
 ### About Me
 - 👋 Hi, I’m @NeelRana0901
